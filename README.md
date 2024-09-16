@@ -1,0 +1,1 @@
+Neste projeto, desenvolvi uma aplicação em C# que registra bandas musicais, confere seus nomes em uma lista e as classifica. A interface é feita diretamente no terminal, garantindo uma interação simples e eficiente para manipulação e organização de dados musicais.
